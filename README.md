@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hi, I'm Faraz! 👋
 
-<!--
-**FarazKarami/FarazKarami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Computer Engineer student with expertise in various languages and frameworks.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ C, C++, Java, HTML, CSS, JavaScript, React, GIT
+
+## Get in Touch
+
+- LinkedIn: https://www.linkedin.com/in/faraz-karami-06697a1a7/
+- Email: farazkarami24@gmail.com
+
+Feel free to reach out if you'd like to collaborate or chat about development!
