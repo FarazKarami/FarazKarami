@@ -1,6 +1,6 @@
 # Hi, I'm Faraz! 👋
 
-I'm a passionate Computer Engineer student with expertise in various languages and frameworks.
+I'm a passionate Computer Engineer student.
 
 ## Skills
 
