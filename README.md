@@ -4,7 +4,7 @@ I'm a passionate Computer Engineer student.
 
 ## Skills
 
- C, C++, Java, HTML, CSS, JavaScript, React, GIT
+ C, C++, Java, HTML, CSS, JavaScript, React, GIT, Bootstrap, Tailwind CSS
 
 ## Get in Touch
 
